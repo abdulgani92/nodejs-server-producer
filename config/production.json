@@ -1,0 +1,12 @@
+{
+    "aws": {
+        "config": {
+            "secretAccessKey": "N8eXXXXXXXXXXXXXXXXXXXXXX",
+            "accessKeyId": "AKIXXXXXXXXXXXXX",
+            "region": "us-east-1"
+        },
+        "bucket_name": "knowhere-video-bucket"
+    },
+    "port": "443",
+    "queue_name":"VIDEO_RESIZE"
+}

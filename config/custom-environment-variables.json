@@ -1,0 +1,8 @@
+{
+    "aws": {
+        "config": {
+            "secretAccessKey": "aws_secret_access_key",
+            "accessKeyId": "aws_access_key_id"
+        }
+    }
+}

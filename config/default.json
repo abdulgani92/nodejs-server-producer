@@ -1,0 +1,10 @@
+{
+    "aws": {
+        "config": {
+            "region": "us-east-1"
+        },
+        "bucket_name": "knowhere-video-bucket"
+    },
+    "port": "3000",
+    "queue_name":"VIDEO_RESIZE"
+}
